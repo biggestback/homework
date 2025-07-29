@@ -24,11 +24,9 @@ public class PersonExercise {
         System.out.println(name + " makes $" + monthlyincome + " every month.");
     } 
 
-    //method 3 - name (w/ local variable)
+    // method 3 - name (w/ local variable)
     public void sayname() {
         String introduction = "This person's name is " + name + ".";
         System.out.println(introduction);
     }
-
-
 }
